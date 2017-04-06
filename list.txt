@@ -1,4 +1,50 @@
-1. 날씨정보를 알려주는 구름조명
-2. 컬러 오르골
-3. 아두이노로 실시간 버스정보 받아오기
-4.
+Almighty 아두이노 B팀 (조현아, 김예윤, 김정현, 지우석)
+
+1. 구름조명(1주)
+: 날씨 데이터를 받아와 led의 색으로 날씨를 알려주는 조명
+: 필요한 물품
+- 아두이노(오렌지보드)
+- WiFi쉴드(Wifi 모듈)
+- 30mm 대형 RGBI LED Strip (ws2801 – adafruit)
+- 점퍼케이블
+- 아답터(DC 9V)
+
+https://kocoafab.cc/make/view/448
+
+2. 버스정보 받아오기(1주)
+: 버스정보시스템의 API를 사용하여 데이터를 오렌지보드 WiFi에 읽어온 후에 원하는 데이터만 파싱하여 LCD에 출력함 
+: 필요한 물품
+- 오렌지보드 WiFi ( WizFi250 라이브러리 사용)
+- 12C LCD
+- 푸시 버튼
+- LED
+- 저항(330옴)
+
+https://kocoafab.cc/make/view/695
+https://kocoafab.cc/make/view/696
+
+3. 런던시티(2주)
+: 런던 시에 있는 관람차, 다리, 건물(탑) 등을 만들어 움직이거나 불을 들어오게 하여 하나의 도시를 완성
+: 필요한 물품
+- 오렌지보드
+- DC모터
+- 온도센서
+- 다이오드
+- LED
+- USB 케이블
+- 피에조부저기울기센서
+- 저항
+- 케이블
+- 가변저항
+- 조도센서
+- 브레드보드
+- Push 버튼
+- 트랜지스터
+- 그 외 런던시티를 구성할 물품들
+
+https://kocoafab.cc/product/londoncity
+
+4. 댄스플로어
+: 
+
+https://blog.arduino.cc/2017/03/27/an-interactive-led-floor-to-get-the-dance-party-started/
