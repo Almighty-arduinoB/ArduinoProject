@@ -45,6 +45,10 @@ https://kocoafab.cc/make/view/696
 https://kocoafab.cc/product/londoncity
 
 4. 댄스플로어
-: 
+: 압력을 이용하여 불빛이 나오게 하는 댄스플로어를 사이즈를 작게 하여 제작
+: 필요한 물품
+- 아두이노
+- LED 판
+- 센서 인터렉티브 판
 
 https://blog.arduino.cc/2017/03/27/an-interactive-led-floor-to-get-the-dance-party-started/
